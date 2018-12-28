@@ -1,3 +1,7 @@
+// I. Variables & Datatypes
+
+// A
+
 // 1. How do we assign a value to a variable? 
 
 var dog = 'Arnold'
@@ -21,3 +25,60 @@ var cat = 'Arnold'
 // 6. What percentage of time should be spent thinking about how you're going to solve a problem vs actually typing in code to solve it?
 
 // 30% / 70%
+
+// B
+// 1
+
+var firstVariable = 'Hello World';
+
+var firstVariable = 6;
+
+var secondVariable = 6;
+
+var secondVariable = 'string';
+
+// value of first variable is 6
+
+// 2
+
+var yourName = `Harry`;
+
+console.log(`Hello ${yourName}, how are you?`);
+
+// C
+
+const a = 4;
+const b = 53;
+const c = 57;
+const d = 16;
+const e = 'Kevin';
+
+console.log(a !== b);
+console.log(c !== d);
+console.log('Name' == 'Name');
+console.log(true !== false);
+console.log(false == false == false == false == false == false == true);
+console.log(false == false)
+console.log(e == 'Kevin');
+console.log(a + b == c);
+console.log(a * a == d);
+console.log(48 == '48');
+
+// D
+
+var animal = `cow`;
+
+
+console.log(`mooooooo`);
+
+
+// E 
+
+var age = 23;
+
+if (age >= 16) {
+    console.log(`Here are the keys`);
+} else {
+    console.log(`Sorry, you're too young.`)
+};
+
