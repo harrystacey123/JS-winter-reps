@@ -168,3 +168,14 @@ var quotes = ['I like apples', 'I like bananas', 'I like oranges'];
 // randomThings[2] = 'World';
 // console.log(randomThings);
 
+// D
+
+// const ourClass = ["Salty", "Zoom", "Sardine", "Slack", "Github"]
+
+// console.log(ourClass[2]);
+
+// ourClass[4] = 'Octocat';
+
+// ourClass.push('Cloud City');
+// console.log(ourClass);
+
