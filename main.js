@@ -181,14 +181,27 @@ var quotes = ['I like apples', 'I like bananas', 'I like oranges'];
 
 // E
 
-const myArray = [5, 10, 500, 20]
+// const myArray = [5, 10, 500, 20]
 
-myArray.push('Egon');
-myArray.push('Harry');
-myArray.shift();
-myArray.unshift('Bob Marley');
-myArray.pop();
+// myArray.push('Egon');
+// myArray.push('Harry');
+// myArray.shift();
+// myArray.unshift('Bob Marley');
+// myArray.pop();
 
-myArray.reverse();
+// myArray.reverse();
 
-console.log(myArray);
+// console.log(myArray);
+
+// mutate means change 
+
+
+// F
+
+// var integer = 10;
+
+// if (integer < 100) {
+//     console.log('little number');
+// } else {
+//     console.log('big number');
+// }
