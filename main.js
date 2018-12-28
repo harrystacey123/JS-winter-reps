@@ -143,6 +143,7 @@ if (age >= 16) {
 // console.log(sum)
 
 // III
+// A
 
 // 1. What are the things in an array called?
 
@@ -155,3 +156,8 @@ if (age >= 16) {
 // 3. What real-life thing could you model with an array?
 
 // Listing my hobbies
+
+// B
+
+
+var quotes = ['I like apples', 'I like bananas', 'I like oranges'];
