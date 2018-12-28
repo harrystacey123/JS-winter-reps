@@ -179,3 +179,16 @@ var quotes = ['I like apples', 'I like bananas', 'I like oranges'];
 // ourClass.push('Cloud City');
 // console.log(ourClass);
 
+// E
+
+const myArray = [5, 10, 500, 20]
+
+myArray.push('Egon');
+myArray.push('Harry');
+myArray.shift();
+myArray.unshift('Bob Marley');
+myArray.pop();
+
+myArray.reverse();
+
+console.log(myArray);
