@@ -279,3 +279,8 @@ const thomsCloset = [
 
 // C
 
+// function calculateCube(number) {
+//     console.log(Math.pow(number, 3));
+// };
+
+// calculateCube(3);
