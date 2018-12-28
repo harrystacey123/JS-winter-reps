@@ -53,16 +53,16 @@ const c = 57;
 const d = 16;
 const e = 'Kevin';
 
-console.log(a !== b);
-console.log(c !== d);
-console.log('Name' == 'Name');
-console.log(true !== false);
-console.log(false == false == false == false == false == false == true);
-console.log(false == false)
-console.log(e == 'Kevin');
-console.log(a + b == c);
-console.log(a * a == d);
-console.log(48 == '48');
+// console.log(a !== b);
+// console.log(c !== d);
+// console.log('Name' == 'Name');
+// console.log(true !== false);
+// console.log(false == false == false == false == false == false == true);
+// console.log(false == false)
+// console.log(e == 'Kevin');
+// console.log(a + b == c);
+// console.log(a * a == d);
+// console.log(48 == '48');
 
 // D
 
@@ -117,4 +117,18 @@ if (age >= 16) {
 //     }
 // };
 
+// D
+
+
+// var bankAccount = 0;
+// for (let i = 0; i <= 10; i++) {
+//     bankAccount += i;
+// };
+// console.log(bankAccount)
+
+// var bankAccount = 0;
+// for (let i = 0; i <= 100; i++) {
+//     bankAccount += i * 2;
+// }
+// console.log(bankAccount)
 
