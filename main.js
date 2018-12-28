@@ -134,11 +134,24 @@ if (age >= 16) {
 
 // E
 
-var sum = 0;
-for (let i = 0; i < 1000; i++) {
-    if (i % 5 == 0 || i % 3 == 0) {
-        sum += i;
-    }
-}
-console.log(sum)
+// var sum = 0;
+// for (let i = 0; i < 1000; i++) {
+//     if (i % 5 == 0 || i % 3 == 0) {
+//         sum += i;
+//     }
+// }
+// console.log(sum)
 
+// III
+
+// 1. What are the things in an array called?
+
+// Element
+
+// 2. Do Arrays guarantee those things will be in order?
+
+// Yes
+
+// 3. What real-life thing could you model with an array?
+
+// Listing my hobbies
