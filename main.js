@@ -264,7 +264,18 @@ const thomsCloset = [
 // A
 
 
-function printGreeting(name) {
-    console.log(`Hello there ${name}`);
-}
-printGreeting('Harry');
+// function printGreeting(name) {
+//     console.log(`Hello there ${name}`);
+// }
+// printGreeting('Harry');
+
+
+// B
+
+// function printCool(name) {
+//     console.log(`${name} is cool`);
+// }
+// printCool('Harry Stacey');
+
+// C
+
