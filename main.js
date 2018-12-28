@@ -198,10 +198,20 @@ var quotes = ['I like apples', 'I like bananas', 'I like oranges'];
 
 // F
 
-// var integer = 10;
+var integer = 10;
 
 // if (integer < 100) {
 //     console.log('little number');
 // } else {
 //     console.log('big number');
 // }
+
+// G 
+
+if (integer < 5) {
+    console.log('little number');
+} else if (integer > 10) {
+    console.log('big number');
+} else {
+    console.log('monkey');
+};
