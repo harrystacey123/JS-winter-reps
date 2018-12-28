@@ -159,5 +159,12 @@ if (age >= 16) {
 
 // B
 
-
 var quotes = ['I like apples', 'I like bananas', 'I like oranges'];
+
+// C
+
+// const randomThings = [1, 10, "Hello", true]
+// console.log(randomThings[0]);
+// randomThings[2] = 'World';
+// console.log(randomThings);
+
