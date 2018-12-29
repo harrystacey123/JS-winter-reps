@@ -307,3 +307,23 @@ const thomsCloset = [
 // }
 
 // getTwoLengths('string', 'harry');
+
+// F
+
+function getMultipleLengths(string3) {
+
+};
+
+// G
+
+function maxOfThree(number1, number2, number3) {
+    if (number1 >= number2 && number1 >= number3) {
+        console.log(number1);
+    } else if (number2 >= number1 && number2 >= number3) {
+        console.log(number2);
+    } else {
+        console.log(number3);
+    };
+};
+
+maxOfThree(10, 245, 1538);
