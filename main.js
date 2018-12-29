@@ -284,3 +284,26 @@ const thomsCloset = [
 // };
 
 // calculateCube(3);
+
+// D
+
+// function isVowel(character) {
+//     if (character.match(/[aeiouAEIOU]/)) {
+//         console.log(true);
+//     } else {
+//         console.log(false);
+//     };
+// };
+// isVowel('b');
+
+
+// E 
+
+// function getTwoLengths(string1, string2) {
+//     var arr = []
+//     arr.push(string1.length);
+//     arr.push(string2.length);
+//     console.log(arr);
+// }
+
+// getTwoLengths('string', 'harry');
