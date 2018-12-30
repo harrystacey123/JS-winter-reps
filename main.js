@@ -43,7 +43,7 @@ var secondVariable = 'string';
 
 var yourName = `Harry`;
 
-console.log(`Hello ${yourName}, how are you?`);
+// console.log(`Hello ${yourName}, how are you?`);
 
 // C
 
@@ -69,18 +69,18 @@ const e = 'Kevin';
 var animal = `cow`;
 
 
-console.log(`mooooooo`);
+// console.log(`mooooooo`);
 
 
 // E 
 
-var age = 23;
+// var age = 23;
 
-if (age >= 16) {
-    console.log(`Here are the keys`);
-} else {
-    console.log(`Sorry, you're too young.`)
-};
+// if (age >= 16) {
+//     console.log(`Here are the keys`);
+// } else {
+//     console.log(`Sorry, you're too young.`)
+// };
 
 // II
 
@@ -316,14 +316,31 @@ function getMultipleLengths(string3) {
 
 // G
 
-function maxOfThree(number1, number2, number3) {
-    if (number1 >= number2 && number1 >= number3) {
-        console.log(number1);
-    } else if (number2 >= number1 && number2 >= number3) {
-        console.log(number2);
-    } else {
-        console.log(number3);
-    };
-};
+// function maxOfThree(number1, number2, number3) {
+//     if (number1 >= number2 && number1 >= number3) {
+//         console.log(number1);
+//     } else if (number2 >= number1 && number2 >= number3) {
+//         console.log(number2);
+//     } else {
+//         console.log(number3);
+//     };
+// };
 
-maxOfThree(10, 245, 1538);
+// maxOfThree(10, 245, 1538);
+
+// H
+
+// function printLongestWord(arr) {
+//     var lgth = 0;
+//     var longest;
+//     for (let i = 0; i < arr.length; i++) {
+//         if (arr[i].length > lgth) {
+//             var lgth = arr[i].length;
+//             longest = arr[i];
+//         };
+//     };
+//     console.log(longest);
+// };
+
+// printLongestWord(['harry', 'stacey', 'oliverTwist', 'peanutButter']);
+
