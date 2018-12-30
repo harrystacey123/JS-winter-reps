@@ -373,3 +373,14 @@ function getRandomElement() {
 };
 
 getRandomElement();
+
+// Objects
+
+// A
+
+var user = {
+    name: 'Harry Stacey',
+    email: 'harrystacey@live.co.uk',
+    age: '23',
+    purchased: []
+};
