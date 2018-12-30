@@ -401,6 +401,24 @@ user.location = 'San Francisco';
 user.purchased.push('carbohydrates');
 user.purchased.push('peace of mind');
 user.purchased.push('Merino Jodhpurs');
-// console.log(user);
 
 // console.log(user.purchased[2]);
+
+// E
+
+user.friend = {
+    name: 'Kev',
+    age: 26,
+    location: 'San Francisco',
+    purchased: []
+};
+
+console.log(user.friend.name);
+console.log(user.friend.location);
+
+user.friend.age = 55;
+
+user.friend.purchased.push('The One Ring');
+user.friend.purchased.push('A latte');
+
+console.log(user.friend.purchased[1]);
