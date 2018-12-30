@@ -396,4 +396,11 @@ var user = {
 
 user.location = 'San Francisco';
 
-console.log(user);
+// D
+
+user.purchased.push('carbohydrates');
+user.purchased.push('peace of mind');
+user.purchased.push('Merino Jodhpurs');
+// console.log(user);
+
+// console.log(user.purchased[2]);
