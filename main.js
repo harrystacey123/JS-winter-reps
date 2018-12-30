@@ -425,10 +425,29 @@ user.friend.purchased.push('A latte');
 
 // F
 
-for (let i = 0; i < user.purchased.length; i++) {
-    console.log(user.purchased[i]);
-}
+// for (let i = 0; i < user.purchased.length; i++) {
+//     console.log(user.purchased[i]);
+// }
 
-for (let i = 0; i < user.friend.purchased.length; i++) {
-    console.log(user.friend.purchased[i]);
-}
+// for (let i = 0; i < user.friend.purchased.length; i++) {
+//     console.log(user.friend.purchased[i]);
+// }
+
+// G
+
+// function updateUser() {
+//     user.age = user.age += 1;
+//     user.name = user.name.toUpperCase();
+//     console.log(user);
+// }
+
+// updateUser();
+
+
+function oldAndLoud(person) {
+    person.age = person.age += 1;
+    person.name = person.name.toUpperCase();
+    console.log(person);
+};
+
+oldAndLoud(user);
