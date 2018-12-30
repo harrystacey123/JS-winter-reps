@@ -385,7 +385,15 @@ var user = {
     purchased: []
 };
 
-user.email = 'harrystacey8@gmail.com';
-user.age = user.age +=1;
+//B
+
+// user.email = 'harrystacey8@gmail.com';
+// user.age = user.age +=1;
+
+
+
+//C
+
+user.location = 'San Francisco';
 
 console.log(user);
