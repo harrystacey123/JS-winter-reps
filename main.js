@@ -360,19 +360,19 @@ function getMultipleLengths(string3) {
 
 // K
 
-function randomInteger(min, max) {
-    console.log(Math.floor(Math.random() * (max - min + 1)) + min);
-};
+// function randomInteger(min, max) {
+//     console.log(Math.floor(Math.random() * (max - min + 1)) + min);
+// };
 
-randomInteger(10, 100);
+// randomInteger(10, 100);
 
 
-function getRandomElement() {
-    var quotes = ['I like apples', 'I like bananas', 'I like oranges'];
-    console.log(quotes[Math.floor(Math.random() * quotes.length)]);
-};
+// function getRandomElement() {
+//     var quotes = ['I like apples', 'I like bananas', 'I like oranges'];
+//     console.log(quotes[Math.floor(Math.random() * quotes.length)]);
+// };
 
-getRandomElement();
+// getRandomElement();
 
 // Objects
 
@@ -381,6 +381,11 @@ getRandomElement();
 var user = {
     name: 'Harry Stacey',
     email: 'harrystacey@live.co.uk',
-    age: '23',
+    age: 23,
     purchased: []
 };
+
+user.email = 'harrystacey8@gmail.com';
+user.age = user.age +=1;
+
+console.log(user);
