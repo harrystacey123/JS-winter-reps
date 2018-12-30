@@ -344,3 +344,11 @@ function getMultipleLengths(string3) {
 
 // printLongestWord(['harry', 'stacey', 'oliverTwist', 'peanutButter']);
 
+// I
+
+// function transmogrify(number1, number2, number3) {
+//     var res = Math.pow((number1 * number2), number3);
+//     console.log(res);
+// };
+
+// transmogrify(1, 2, 3);
