@@ -352,3 +352,24 @@ function getMultipleLengths(string3) {
 // };
 
 // transmogrify(1, 2, 3);
+
+// J
+
+
+
+
+// K
+
+function randomInteger(min, max) {
+    console.log(Math.floor(Math.random() * (max - min + 1)) + min);
+};
+
+randomInteger(10, 100);
+
+
+function getRandomElement() {
+    var quotes = ['I like apples', 'I like bananas', 'I like oranges'];
+    console.log(quotes[Math.floor(Math.random() * quotes.length)]);
+};
+
+getRandomElement();
